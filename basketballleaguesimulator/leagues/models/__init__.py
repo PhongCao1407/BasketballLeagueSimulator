@@ -8,3 +8,5 @@ from .awayteam import AwayTeams
 from .game import Games
 from .player import Players
 from .playergamestatistic import PlayerGameStatistics
+from .playeroverallstatistic import PlayerOverallStatistics
+from .playerseasonstatistic import PlayerSeasonStatistics
